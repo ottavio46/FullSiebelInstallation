@@ -15,9 +15,9 @@ Click on the links below for details
 
 <a href='http://www.eir.me/siebel.php?art_id=372&cat=4'>Siebel Installation Step 5: Siebel Enterprise Server Configuration</a>
 
-<a href='http://www.eir.me/siebel.php?art_id=373&cat=4>Siebel Installation Step 6: SWSE Logical Profile Configuration</a>
+<a href='http://www.eir.me/siebel.php?art_id=373&cat=4'>Siebel Installation Step 6: SWSE Logical Profile Configuration</a>
 
-<a href='http://www.eir.me/siebel.php?art_id=374&cat=4>Installation Step 7: Database Server Configuration</a>
+<a href='http://www.eir.me/siebel.php?art_id=374&cat=4'>Installation Step 7: Database Server Configuration</a>
 
 <a href='http://www.eir.me/siebel.php?art_id=375&cat=4'>Siebel Installation Step 8: Siebel Server Configuration</a>
 
